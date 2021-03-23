@@ -13,7 +13,7 @@ class Libxml2 < Formula
     end
   
     bottle do
-        root_url "https://bintray.com/homebrew/bottles/libxml2/"
+        root_url "https://bintray.com/homebrew/bottles/libxml2"
       sha256 cellar: :any, catalina:      "2983d5a448504389888720bf951713114ed7f010d96cde9289fdc5c4b539d303"
       sha256 cellar: :any, mojave:        "7bcd780db5693475c7711eefbbcf703507865e06483e7338ab61027ec375c4bc"
       sha256 cellar: :any, high_sierra:   "34d84eaef7f80632a6547903d640be06c6d92b9ca2b815b64b74943b4cf73e63"
