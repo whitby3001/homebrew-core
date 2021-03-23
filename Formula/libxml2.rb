@@ -6,8 +6,7 @@ class Libxml2 < Formula
     sha256 "aafee193ffb8fe0c82d4afef6ef91972cbaf5feea100edc2f262750611b4be1f"
   
     bottle do
-       root_url "https://bintray.com/homebrew/bottles/libxml2"
-      cellar :any
+       cellar :any
       sha256 "2a7de29b64f7bd74990ff1fd1b00d52333e587ae567e78bbab811a33b91141d6" => :catalina
       sha256 "1e6143e9bfb756fe80e4a1db417b722569429a815365ed9070556e81bd2db02a" => :mojave
       sha256 "d6b944e43be98a8e4200eb247c1d4b1254f8026e2e5a39cfa8b67d1c9429a7f2" => :high_sierra
